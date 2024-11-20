@@ -1,0 +1,13 @@
+.o-mail-DiscussSidebarChannel-container {
+    --mail-DiscussSidebarChannel-borderOpacity: .2;
+    ---mail-DiscussSidebarChannel-borderedBgColor: #{$gray-100};
+}
+
+.o-mail-DiscussSidebarSubchannel {
+    --mail-DiscussSidebarSubchannel-svgColor: #{$gray-400};
+}
+
+.o-mail-DiscussSidebarCategories-search {
+    --mail-DiscussSidebarCategories-searchContainerBg: #{$white};
+    --mail-DiscussSidebarCategories-searchContainerBgHover: #{$gray-100};
+}
